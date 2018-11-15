@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [RichEditLoadOnDemandSLTestPage.aspx](./CS/RichEditLoadOnDemandSL.Web/RichEditLoadOnDemandSLTestPage.aspx) (VB: [RichEditLoadOnDemandSLTestPage.aspx](./VB/RichEditLoadOnDemandSL.Web/RichEditLoadOnDemandSLTestPage.aspx))
+* [Silverlight.js](./CS/RichEditLoadOnDemandSL.Web/Silverlight.js) (VB: [Silverlight.js](./VB/RichEditLoadOnDemandSL.Web/Silverlight.js))
+* [MainPage.xaml](./CS/RichEditLoadOnDemandSL/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/RichEditLoadOnDemandSL/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/RichEditLoadOnDemandSL/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/RichEditLoadOnDemandSL/MainPage.xaml.vb))
+* [ZipUtil.cs](./CS/RichEditLoadOnDemandSL/ZipUtil.cs) (VB: [ZipUtil.vb](./VB/RichEditLoadOnDemandSL/ZipUtil.vb))
+<!-- default file list end -->
 # DXRichEdit for Silverlight: How to load DXRichEdit assemblies on demand
 
 
